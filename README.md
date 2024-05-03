@@ -67,5 +67,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Contact
 
-Your Name - your.email@example.com  
-Project Link: [Activity
+## Your Name - agnihotramvamsi@gmail.com / vamsi.agnihotram@sjsu.edu
